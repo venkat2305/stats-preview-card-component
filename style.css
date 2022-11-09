@@ -110,12 +110,12 @@ li {
     margin-bottom: 48px;
   }
 
-  ul{
+  ul {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
   }
-  strong{
+  strong {
     font-size: 18px;
     text-align: left;
   }
