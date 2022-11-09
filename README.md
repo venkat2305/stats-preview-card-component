@@ -1,7 +1,8 @@
 # To do
-
+1. learn about `height:100%;` and `object-fit:cover`
 1. Use rem (or em when it makes sense) instead of px so that your page scales correctly when the user has set a different font size in the browser
 2. Avoid setting fixed widths or heights on elements (like on .desc). Try to control the size of the card sections using Flexbox or Grid
+3. add a max-width: 100% on the card just to be sure that it never gets bigger than its container (questionable)
 
 # LEARNINGS
 
@@ -14,4 +15,3 @@
 2. `mix-blend-mode`
    - [w3schools](https://www.w3schools.com/cssref/pr_mix-blend-mode.php)
    - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode)
-3. add a max-width: 100% on the card just to be sure that it never gets bigger than its container

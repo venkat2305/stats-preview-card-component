@@ -28,7 +28,7 @@ body {
 
 .card {
   background-color: var(--Dark-desaturated-blue);
-  max-width: 400px;
+  width: 400px;
   overflow: hidden;
   border-radius: 10px;
   max-width: 100%;
