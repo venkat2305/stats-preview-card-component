@@ -4,6 +4,7 @@
 2. Avoid setting fixed widths or heights on elements (like on .desc). Try to control the size of the card sections using Flexbox or Grid
 3. add a max-width: 100% on the card just to be sure that it never gets bigger than its container (questionable)
 
+
 # LEARNINGS
 
 1. [Picture tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)

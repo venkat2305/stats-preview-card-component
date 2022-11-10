@@ -39,6 +39,7 @@ img {
   background: var(--Dark-desaturated-blue);
   mix-blend-mode: multiply;
   opacity: 0.75;
+  display: block;
 }
 
 .bg {
